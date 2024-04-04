@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675931029774",
+    "project_id": "prueba-tecnica-a9876",
+    "storage_bucket": "prueba-tecnica-a9876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675931029774:android:6d4983b1c201d5ded6975f",
+        "android_client_info": {
+          "package_name": "com.zhaaky.mylocations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82MnN_1Wt3QbK4c2j9uzADt3I2S-g9CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675931029774:android:59aeb9bd561aa3f5d6975f",
+        "android_client_info": {
+          "package_name": "com.zhaaky.pruebatecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB82MnN_1Wt3QbK4c2j9uzADt3I2S-g9CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

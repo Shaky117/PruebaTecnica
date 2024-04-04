@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PruebaTecnica</string>
+    <string name="base_url">https://pokeapi.co/api/v2/pokemon/</string>
+    <string name="image_url">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="pokemon">Pokemon</string>
+    <string name="acitvidad_1">Actividad 1</string>
+    <string name="my_locations">My locations</string>
+
+</resources>
